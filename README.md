@@ -3,11 +3,11 @@ A java program the converts english to morse code.
 
 This program uses a simple binary tree in order to translate English into Morse Code, and vice versa.
 
-                        A?
-                       / \
-                     Yes  B?
-                         /  \
-                        Yes   C? 
+                                        A?
+                                       / \
+                            result +="A"  B?
+                                         /  \
+                              result +="B"   C? 
                         
 This is looped until the complete translation of the input string.
 
