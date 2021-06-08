@@ -13,4 +13,4 @@ This is looped until the complete translation of the input string.
 
 Special parameters are given towards punctuation, to translate to whitespace to separate words from sentences, which can lead to confusion when using a real morse code key to relay messages. 
 
-Untranslatable characters, such as "$" or "(" will return an error message. If currency needs to specified, please input as its name, ie USD, CNY, or EUR. 
+Untranslatable characters, such as "$" or "(" will return an error message. If currency needs to specified, please input as its name, ie USD, BTC, CNY, or EUR. 
